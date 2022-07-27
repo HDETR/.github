@@ -26,11 +26,11 @@ One-to-one set matching is a key design for DETR to establish its end-to-end cap
 
 - The HDETR architecture:
 
-![teaser](.github/profile/HDETR_framework.png)
+![teaser](HDETR_framework.png)
 
 ## Experiments
 
-![teaser](.github/profile/HDETR_main_results.png)
+![teaser](HDETR_main_results.png)
 
 
 
