@@ -33,5 +33,14 @@ One-to-one set matching is a key design for DETR to establish its end-to-end cap
 ![teaser](profile/HDETR_main_results.png)
 
 
-
+## Citing H-DETR
+If you find H-DETR useful in your research, please consider citing:
+```bibtex
+@article{jia2022detrs,
+  title={DETRs with Hybrid Matching},
+  author={Jia, Ding and Yuan, Yuhui and He, Haodi and Wu, Xiaopei and Yu, Haojun and Lin, Weihong and Sun, Lei and Zhang, Chao and Hu, Han},
+  journal={arXiv preprint arXiv:2207.13080},
+  year={2022}
+}
+```
 
