@@ -18,6 +18,8 @@
 
 ## News
 
+**2022.08.07** Code for [H-PETR-3D](https://github.com/HDETR/H-PETR-3D) is released.
+
 **2022.08.01** Code for [H-Deformable-DETR](https://github.com/HDETR/H-Deformable-DETR) is released.
 
 **2022.07.27** HDETRs has been released to arXiv. The code will be released soon, please stay tuned. 
