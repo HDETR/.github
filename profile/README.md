@@ -18,7 +18,7 @@
 
 ## News
 
-**2022.08.31** Code for [H-Deformable-DETR-mmdet](https://github.com/HDETR/H-Deformable-DETR-mmdet) (**support mmdetection2d**) is released.
+**2022.08.31** Code for [H-Deformable-DETR-mmdet](https://github.com/HDETR/H-Deformable-DETR-mmdet) (**support mmdetection2d**) is released. We will also release the support for both instance segmentation and panoptic segmentation soon.
 
 **2022.08.07** Code for [H-PETR-3D](https://github.com/HDETR/H-PETR-3D) (**strong results on nuScenes**) and [H-PETR-Pose](https://github.com/HDETR/H-PETR-Pose) (**strong results on COCO pose estimation**) is released.
 
