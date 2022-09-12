@@ -18,6 +18,8 @@
 
 ## News
 
+**2022.09.12** Our [H-Deformable-DETR w/ Swin-L]() achieves **58.2** AP on COCO val with **4-scale feature maps**, thus achieving comparable (slightly better) results then the very recent [DINO-DETR w/ Swin-L](https://github.com/IDEACVR/DINO#36-epoch-setting) equipped with **4-scale feature maps**.
+
 **2022.08.31** Code for [H-Deformable-DETR-mmdet](https://github.com/HDETR/H-Deformable-DETR-mmdet) (**support mmdetection2d**) is released. We will also release the code for [H-Mask-Deformable-DETR](https://github.com/HDETR/H-Mask-Deformable-DETR) soon (**strong results on both instance segmentation and panoptic segmentation**).
 
 **2022.08.07** Code for [H-PETR-3D](https://github.com/HDETR/H-PETR-3D) (**strong results on nuScenes**) and [H-PETR-Pose](https://github.com/HDETR/H-PETR-Pose) (**strong results on COCO pose estimation**) is released.
