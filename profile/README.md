@@ -18,7 +18,7 @@
 
 ## News
 
-⛽⛽⛽ [MSRA-VC-Group] is hiring research interns to push the frontier cutting-edge technology of object detection and segmentation.⛽⛽⛽ Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com)
+⛽⛽⛽ [MSRA-VC-Group] is hiring research interns to push the frontier cutting-edge technology of object detection and segmentation. Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com)
 
 **2022.10.20** 🎉🎉🎉[Detrex](https://github.com/IDEA-Research/detrex) have supported our [H-Deformable-DETR](https://github.com/IDEA-Research/detrex/blob/main/projects/h_deformable_detr/README.md) 🍺🍺🍺 credits to [Ding Jia](https://github.com/JiaDingCN) and [Tianhe Ren](https://github.com/rentainhe) 🍺🍺🍺
 
