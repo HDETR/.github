@@ -20,7 +20,7 @@
 
 ⛽⛽⛽ [MSRA-VC-Group] is hiring research interns to push the frontier cutting-edge technology of object detection and segmentation.⛽⛽⛽ Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com)
 
-**2022.10.22** 🎉🎉🎉[Detrex](https://github.com/IDEA-Research/detrex) have supported our [H-Deformable-DETR](https://github.com/IDEA-Research/detrex/blob/main/projects/h_deformable_detr/README.md) 🍺🍺🍺 credits to [Ding Jia](https://github.com/JiaDingCN) and [Tianhe Ren](https://github.com/rentainhe) 🍺🍺🍺
+**2022.10.20** 🎉🎉🎉[Detrex](https://github.com/IDEA-Research/detrex) have supported our [H-Deformable-DETR](https://github.com/IDEA-Research/detrex/blob/main/projects/h_deformable_detr/README.md) 🍺🍺🍺 credits to [Ding Jia](https://github.com/JiaDingCN) and [Tianhe Ren](https://github.com/rentainhe) 🍺🍺🍺
 
 **2022.09.12** Our [H-Deformable-DETR w/ Swin-L]() achieves **58.2** AP on COCO val with **4-scale feature maps**, thus achieving comparable (slightly better) results then the very recent [DINO-DETR w/ Swin-L](https://github.com/IDEACVR/DINO#36-epoch-setting) equipped with **4-scale feature maps**.
 
