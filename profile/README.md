@@ -20,6 +20,8 @@
 
 ⛽⛽⛽ [MSRA-VC-Group] is hiring research interns to push the frontier cutting-edge technology of object detection and segmentation. Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com)
 
+**2022.11.17** Code for [H-Detic-LVIS](https://github.com/HDETR/H-Detic-LVIS) is released. 🍺🍺🍺 credits to [Haodi He](https://github.com/hardyho) 🍺🍺🍺
+
 **2022.11.10** Code for [H-TransTrack](https://github.com/HDETR/H-TransTrack) is released. 🍺🍺🍺 credits to [Haojun Yu](https://github.com/HaojunYuPKU) 🍺🍺🍺
 
 **2022.10.20** 🎉🎉🎉[Detrex](https://github.com/IDEA-Research/detrex) have supported our [H-Deformable-DETR](https://github.com/IDEA-Research/detrex/blob/main/projects/h_deformable_detr/README.md) 🍺🍺🍺 credits to [Ding Jia](https://github.com/JiaDingCN) and [Tianhe Ren](https://github.com/rentainhe) 🍺🍺🍺
