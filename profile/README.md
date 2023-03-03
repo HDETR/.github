@@ -18,7 +18,7 @@
 
 ## News
 
-⛽⛽⛽ [MSRA-VC-Group] is hiring research interns to push the frontier cutting-edge technology of object detection and segmentation. Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com)
+⛽⛽⛽  Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com)
 
 **2023.02.28** HDETR has been accepted by CVPR 2023 😉😉😉
 
