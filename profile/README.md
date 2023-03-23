@@ -11,7 +11,7 @@
 -->
 
 
-# 🚀🚀🚀 🔥🔥🔥DETRs with Hybrid Matching, arXiv 2022
+# 🚀🚀🚀 🔥🔥🔥DETRs with Hybrid Matching, CVPR 2023
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2207.13080)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HDETR&left_color=blue&right_color=green)
